@@ -1,0 +1,23 @@
+1-  Folder hide 
+Attrib +h +s +r Folder_Name
+
+2-  Folder Show 
+Attrib -h -s -r Folder_Name
+
+3-  change color in CMD
+help color
+ color 02 
+
+4 - how to check system property
+systeminfo
+
+5 - how to check version 
+ver
+
+6- how to change directory
+d:
+
+7- how to check directory folder parasent or Not
+dir
+
+
